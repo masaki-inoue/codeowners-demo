@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/masaki-inoue/codeowners-demo#readme",
   "dependencies": {
+    "eslint": "^7.29.0",
     "typescript": "^4.3.5"
   }
 }
